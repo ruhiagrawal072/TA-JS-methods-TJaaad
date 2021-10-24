@@ -6,7 +6,7 @@ Go to this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refere
 
 **Write in your own way of understanding (don't copy paste)**
 
-Only if you are done with step 1 you should go ahead.
+Only if you are done with step 1 you should go ahead. 
 
 1. Practice it by yourself in console (4-5 times to understand)
 2. Data types of parameters
