@@ -27,7 +27,7 @@ Clone the array before using sort method: [...arr]
 // - Find all the words that contain 'is' use string method 'indexOf'
 
 // - Check if all the numbers in numbers array are divisible by three use array method (every)
-
+ 
 // -  Sort Array from smallest to largest
 
 // - Remove the last word in strings
