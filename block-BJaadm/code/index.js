@@ -3,7 +3,7 @@ let persons = [
   { name: 'Sarah', grade: 12, sex: 'F' },
   { name: 'Bob', grade: 16, sex: 'M' },
   { name: 'Johnny', grade: 2, sex: 'M' },
-  { name: 'Ethan', grade: 4, sex: 'M' },
+  { name: 'Ethan', grade: 4, sex: 'M' }, 
   { name: 'Paula', grade: 18, sex: 'F' },
   { name: 'Donald', grade: 5, sex: 'M' },
   { name: 'Jennifer', grade: 13, sex: 'F' },
